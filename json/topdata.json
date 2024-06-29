@@ -1,0 +1,261 @@
+{
+    "topFurniture": [
+      {
+        "id": 1,
+        "title": "Modern Chair",
+        "image":"http://localhost:3000/static/media/c2.0bcd038c83e0379509b9.png",
+        "loop":"http://localhost:3000/static/media/c5.2d85f74d9e2f9b0b97fc.png",
+        "loop2":"http://localhost:3000/static/media/white.4835405b056a6363f699.jpg",
+        "oldprice":1000,
+        "price":780,
+        "category": "chair"
+      },
+      {
+        "id": 2,
+        "title": "Classic Chair",
+        "image":"http://localhost:3000/static/media/c3.df2e59e0af711c2c3379.png",
+        "oldprice":900,
+        "price":700,
+        "category": "chair"
+      },
+      {
+        "id": 3,
+        "title": "Pink Chair",
+        "image":"http://localhost:3000/static/media/c11-.c4025c189a70cb916abf.png",
+        "oldprice":1500,
+        "price":1290,
+        "category": "chair"
+      },
+      {
+        "id": 4,
+        "title": "zety Chair",
+        "image": "http://localhost:3000/static/media/c5.2d85f74d9e2f9b0b97fc.png",
+        "oldprice":200,
+        "price":170,
+        "category": "chair"
+      },
+      {
+        "id": 5,
+        "title": "Red Chair",
+        "image": "http://localhost:3000/static/media/c6.f54f6283d2eb61849f6a.png",
+        "oldprice":1500,
+        "price":900,
+        "category": "chair"
+      },
+      {
+        "id": 6,
+        "title": "white and black Chair",
+        "image": "http://localhost:3000/static/media/c7.5775b514b2260b42fb5e.png",
+        "oldprice":2200,
+        "price":1900,
+        "category": "chair"
+      },
+      {
+        "id": 7,
+        "title": "yellow Chair",
+        "image": "http://localhost:3000/static/media/c8.e2cdcec5b7ea4bbefe53.png",
+        "oldprice":1250,
+        "price":1190,
+        "category": "chair"
+      },
+      
+      {
+        "id": 8,
+        "title": "kashmer Chair",
+        "image": "http://localhost:3000/static/media/c9.ec3388a1f80816f52778.png",
+        "oldprice":1250,
+        "price":1190,
+        "category": "chair"
+      },
+      {
+        "id": 9,
+        "title": "gray Chair",
+        "image": "http://localhost:3000/static/media/c.ed727eeba88063e4874e.png",
+        "oldprice":1250,
+        "price":1190,
+        "category": "chair"
+      },
+      {
+        "id": 10,
+        "title": " brown Couch",
+        "image": "http://localhost:3000/static/media/Sofatable.483b211133e18b1a9e5f.png",
+        "oldprice":3350,
+        "price":2990,
+        "category": "living"
+      },
+      {
+        "id": 11,
+        "title": "white Couch",
+        "image": "http://localhost:3000/static/media/interior-design.80e480582187dfac8ca7.jpg",
+        "oldprice":5550,
+        "price":4990,
+        "category": "living"
+      },
+      {
+        "id": 12,
+        "title": "beige U living",
+        "image": "http://localhost:3000/static/media/living2.665a8fdca8a58d99018b.jpg",
+        "oldprice":5550,
+        "price":4990,
+        "category": "living"
+      },
+      {
+        "id": 13,
+        "title": "L living",
+        "image": "http://localhost:3000/static/media/living3.71066563a239cfc343a5.jpg",
+        "oldprice":5550,
+        "price":4990,
+        "category": "living"
+      },
+      {
+        "id": 14,
+        "title": "white Living",
+        "image": "http://localhost:3000/static/media/living4.5db58773a8b33698be6f.jpg",
+        "oldprice":5550,
+        "price":4990,
+        "category": "living"
+      },
+      {
+        "id": 15,
+        "title": "modern living",
+        "image": "http://localhost:3000/static/media/living5.937b284c1095e965daca.jpg",
+        "oldprice":"5550$",
+        "price":"4990$",
+        "category": "living"
+      },
+      {
+        "id": 16,
+        "title": "White bed",
+        "image": "http://localhost:3000/static/media/bed2.a133afdf31344f7d7438.jpg",
+        "oldprice":13350,
+        "price":1290,
+        "category": "bed"
+      },
+      {
+        "id": 17,
+        "title": "White bed",
+        "image": "http://localhost:3000/static/media/bed2.a133afdf31344f7d7438.jpg",
+        "oldprice":13350,
+        "price":12900,
+        "category": "bed"
+      },
+      {
+        "id": 18,
+        "title": "Modern bed",
+        "image": "http://localhost:3000/static/media/bed3.534cc69ed6bf262774cc.jpg",
+        "oldprice":13350,
+        "price":12900,
+        "category": "bed"
+      },
+      {
+        "id": 19,
+        "title": "Small bed",
+        "image": "http://localhost:3000/static/media/bed4.cf0f8647cfd2edef6aac.jpg",
+        "oldprice":1330,
+        "price":1290,
+        "category": "bed"
+      },
+      {
+        "id": 20,
+        "title": "White bed",
+        "image": "http://localhost:3000/static/media/bed6.44085e43772a6aa0d0d1.jpg",
+        "oldprice":1330,
+        "price":1290,
+        "category": "bed"
+      },
+      {
+        "id": 21,
+        "title": "Circle Lamp",
+        "image": "http://localhost:3000/static/media/lamp7.98bf4e5c27f7aac20fd5.jpg",
+        "oldprice":1400,
+        "price":1290,
+        "category": "Lamp"
+      },
+      {
+        "id": 22,
+        "title": "Modern Lamp",
+        "image": "http://localhost:3000/static/media/lamp2.43a57bb824723667400d.jpg",
+        "oldprice":1200,
+        "price":1100,
+        "category": "Lamp"
+      },
+      {
+        "id": 23,
+        "title": "Modern Lamp",
+        "image": "http://localhost:3000/static/media/lamp3.28f7e77eda8630865732.jpg",
+        "oldprice":1400,
+        "price":1290,
+        "category": "Lamp"
+      },
+      {
+        "id": 24,
+        "title": "Two Lamp",
+        "image": "http://localhost:3000/static/media/lamp5.c9acedbc3ee54b41b3c1.jpg",
+        "oldprice":1000,
+        "price":900,
+        "category": "Lamp"
+      },
+      {
+        "id": 25,
+        "title": "Three Lamp",
+        "image": "http://localhost:3000/static/media/lamp6.e77cf810e781fe910de5.jpg",
+        "oldprice":1200,
+        "price":1000,
+        "category": "Lamp"
+      },
+      {
+        "id": 27,
+        "title": "Classic Lamp",
+        "image": "http://localhost:3000/static/media/lamp7.98bf4e5c27f7aac20fd5.jpg",
+        "oldprice":1000,
+        "price":900,
+        "category": "Lamp"
+      },
+      {
+        "id": 28,
+        "title": "Modern Lamp",
+        "image": "http://localhost:3000/static/media/lamp8.53f42c7ed0580116d7c1.jpg",
+        "oldprice":1800,
+        "price":1700,
+        "category": "Lamp"
+      }
+    ],
+
+    "Bestsales":[
+      {
+        "id": 4,
+        "title": "zety Chair",
+        "image": "http://localhost:3000/static/media/c5.2d85f74d9e2f9b0b97fc.png",
+        "oldprice":200,
+        "price":170,
+        "category": "chair"
+      },
+ 
+      {
+        "id": 7,
+        "title": "yellow Chair",
+        "image": "http://localhost:3000/static/media/c8.e2cdcec5b7ea4bbefe53.png",
+        "oldprice":1250,
+        "price":1190,
+        "category": "chair"
+      },
+      {
+        "id": 9,
+        "title": "gray Chair",
+        "image": "http://localhost:3000/static/media/c.ed727eeba88063e4874e.png",
+        "oldprice":1250,
+        "price":1190,
+        "category": "chair"
+      },
+    
+      {
+        "id": 5,
+        "title": "ewqsqws",
+        "image": "http://localhost:3000/static/media/c6.f54f6283d2eb61849f6a.png",
+        "oldprice":1500,
+        "price":900,
+        "category": "chair"
+      }
+
+    ]
+  }
